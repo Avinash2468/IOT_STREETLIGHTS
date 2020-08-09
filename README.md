@@ -12,8 +12,7 @@ IOT_report.pdf
 # Components Used
 
 - LoRa Module
-```
+
 ![LoRa Module](/lora.PNG?raw=true "Title")
 
-```
 
