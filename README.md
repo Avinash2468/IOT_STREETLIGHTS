@@ -17,10 +17,27 @@ IOT_report.pdf
 
 - ESP8266 Board
 
-![ESP8266 Module](/ESP.PNG?raw=true "Title")
+![ESP8266 Module](/esp.PNG?raw=true "Title")
 
 - Ultrasonic Sensor
 
 ![Ultrasonic Sensor](/ultrasonic.PNG?raw=true "Title")
+
+- LiDAR Sensor
+
+![LiDAR Sensor](/lidar.PNG?raw=true "Title")
+
+- Arduino Board
+
+![Arduino board](/arduino.PNG?raw=true "Title")
+
+- Logic Level Converter
+
+![Logic Level Converter](/logic.PNG?raw=true "Title")
+
+- Relay
+
+![Relay](/relay.PNG?raw=true "Title")
+
 
 
