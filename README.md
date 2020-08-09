@@ -15,4 +15,12 @@ IOT_report.pdf
 
 ![LoRa Module](/lora.PNG?raw=true "Title")
 
+- ESP8266 Board
+
+![ESP8266 Module](/ESP.PNG?raw=true "Title")
+
+- Ultrasonic Sensor
+
+![Ultrasonic Sensor](/ultrasonic.PNG?raw=true "Title")
+
 
