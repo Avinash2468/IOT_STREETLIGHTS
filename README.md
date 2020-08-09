@@ -1,0 +1,10 @@
+# Energy Conservation through smart management of streetlights
+In this project we aim to reduce energy consumption by streetlights using IoT techniques.
+
+*This README will be a basic introduction to the components we used, if you want a more thorough understanding of our project, check out :-
+```
+IOT_presentation.pdf
+IOT_report.pdf
+
+```
+
