@@ -7,6 +7,6 @@ IOT_presentation.pdf
 IOT_report.pdf
 
 ```
-* To find out how we connected the various components together, please refer to IOT_report.pdf *
+** To find out how we connected the various components together, please refer to IOT_report.pdf **
 
 
